@@ -1,4 +1,4 @@
-This is my `$HOME/.js` directory for the `dotjs` Firefox extension: https://addons.mozilla.org/en-US/firefox/addon/dotjs/
+This is my `$HOME/.css` directory for the `dotjs` Firefox extension: https://addons.mozilla.org/en-US/firefox/addon/dotjs/
 
 Using the "dotjs" extension and these files, you can style the webpages you frequent. Many sites have annoying styling and/or advertisements. 
 
