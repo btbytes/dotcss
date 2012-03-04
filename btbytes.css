@@ -3,7 +3,6 @@ audio:not([controls]){display:none;}
 [hidden]{display:none;}
 html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 html,button,input,select,textarea{font-family:sans-serif;}
-body{margin:2em 2em auto;}
 a:focus{outline:thin dotted;}
 a:hover,a:active{outline:0;}
 h1{font-size:2em;margin:0.67em 0;}
@@ -46,7 +45,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 textarea{overflow:auto;vertical-align:top;}
 table{border-collapse:collapse;border-spacing:0;}
-body{background-color: #fff; margin:2em 2em auto;font-size:11pt;line-height:1.5em;}
+body{background-color: #fff; padding: 2em;font-size:11pt;line-height:1.5em;}
 a{color:#44f;text-decoration:none;}
 h1,h2,h3{color:#000000;}
 p,blockquote{max-width:52em;}
